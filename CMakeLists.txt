@@ -16,3 +16,7 @@ add_executable(2005 HDOJ/2005.cpp)
 add_executable(2006 HDOJ/2006.cpp)
 add_executable(2007 HDOJ/2007.cpp)
 add_executable(1585 UVA/1585.cpp)
+
+add_executable(1585-1 UVA/1585-1.cpp)
+add_executable(272 UVA/272.cpp)
+add_executable(10082 UVA/10082.cpp)
