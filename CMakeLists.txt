@@ -21,3 +21,5 @@ add_executable(1585-1 UVA/1585-1.cpp)
 add_executable(272 UVA/272.cpp)
 add_executable(10082 UVA/10082.cpp)
 add_executable(401 UVA/401.cpp)
+
+add_executable(340 UVA/340.cpp)
